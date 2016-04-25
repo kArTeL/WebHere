@@ -20,10 +20,4 @@ s.requires_arc = true
 
 s.public_header_files = 'Source/*.{h,m}'
 s.source_files = 'Source/*.h'
-#
-# s.source_files = 'Pod/Classes/**/*'
-
-s.dependency 'AFNetworking'
-s.dependency 'GDataXML-HTML', '~> 1.3.0'
-
 end
