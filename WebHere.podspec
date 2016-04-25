@@ -18,8 +18,8 @@ s.ios.deployment_target = '6.1'
 s.osx.deployment_target = '10.8'
 s.requires_arc = true
 
-s.public_header_files = 'Source/*'
-s.source_files = 'Source/*'
+s.public_header_files = 'Source'
+s.source_files = 'Source'
 #
 # s.source_files = 'Pod/Classes/**/*'
 
