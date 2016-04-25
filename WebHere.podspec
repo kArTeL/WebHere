@@ -24,6 +24,6 @@ s.source_files = 'Source/*'
 # s.source_files = 'Pod/Classes/**/*'
 
 s.dependency 'AFNetworking'
-s.dependency 'GDataXML-HTML'
+s.dependency 'GDataXML-HTML', '~> 1.3.0'
 
 end
